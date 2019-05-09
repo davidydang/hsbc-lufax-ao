@@ -1,5 +1,6 @@
 com\hsbc\lu\ao\EmailUtil.class
 com\hsbc\lu\ao\LufaxService.class
+com\hsbc\lu\ao\LufaxServiceTest.class
 com\hsbc\lu\ao\CustomerDAO.class
 com\hsbc\lu\ao\Application.class
 com\hsbc\lu\ao\AOService.class

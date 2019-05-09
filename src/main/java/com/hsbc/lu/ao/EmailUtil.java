@@ -16,6 +16,8 @@ import javax.mail.internet.MimeBodyPart;
 import javax.mail.internet.MimeMessage;
 import javax.mail.internet.MimeMultipart;
 
+import org.springframework.stereotype.Component;
+//@Component
 public class EmailUtil {
 
 	private String SMTPHost = "smtp.163.com", SMTPPort = "25";
