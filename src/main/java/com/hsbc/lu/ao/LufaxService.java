@@ -107,7 +107,7 @@ public class LufaxService {
 		}*/    
 		
 		try {
-            String url = "http://lutest1.api.lu/api/v1/alliance/hsbcbank/get-user-info-by-token";
+            String url = "/api/v1/alliance/hsbcbank/get-user-info-by-token";
             
             Map<String, String> paramHeader = new HashMap<>(); 
             paramHeader.put("Content-Type", "x-www-form-urlencoded"); 
